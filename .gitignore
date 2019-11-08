@@ -1,0 +1,29 @@
+# Mac
+.DS_Store
+
+/Web/build.xml
+/Web/nodejs
+/Web/node_modules/
+.node
+#idea files
+.idea/
+*.iml
+
+# gradle build
+.gradle
+build/
+
+# idea build
+out/
+
+# deprecated
+*.war
+*.log
+*.log.gz
+classes/
+
+Thumbs.db
+build-info.properties
+
+# vertx files
+.vertx/
